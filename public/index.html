@@ -1,0 +1,64 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="scraper.js"></script>
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Data Extractor</title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Enter School Data</h1>
+    <textarea id="schoolData" rows="10" cols="50" placeholder="Paste school data here..."></textarea><br><br><br><br><br>
+    <button id="submit">Generate Excel</button>
+
+    <script>
+        document.getElementById('submit').addEventListener('click', async () => {
+            const data = document.getElementById('schoolData').value;
+
+            // Send the data to the server
+            const response = await fetch('/extract-school-data', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ data }),
+            });
+
+            // If the request is successful, download the Excel file
+            if (response.ok) {
+                const blob = await response.blob();
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'school_data.xlsx';
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+                window.URL.revokeObjectURL(url);
+            } else {
+                alert('Failed to generate Excel file.');
+            }
+        });
+    </script>
+</body>
+
+</html>

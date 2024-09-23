@@ -1,0 +1,112 @@
+   /* General Styles */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /* background-image: url('https://source.unsplash.com/1600x900/?abstract,pattern'); */
+    background-size: cover;
+    background-position: center;
+    background-color: aqua;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Heading */
+h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    color: #1d3557;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    animation: fadeIn 1.5s ease;
+}
+
+/* Textarea */
+#schoolData {
+    width: 100%;
+    max-width: 500px;
+    height: 200px;
+    padding: 15px;
+    font-size: 1rem;
+    border: 1px solid #a8dadc;
+    border-radius: 8px;
+    background-color: #f1faee;
+    transition: all 0.3s ease;
+    resize: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#schoolData:focus {
+    border-color: #457b9d;
+    box-shadow: 0 0 10px rgba(69, 123, 157, 0.3);
+    outline: none;
+    transform: scale(1.02);
+}
+
+/* Button */
+#submit {
+    margin-top: 20px;
+    padding: 12px 15px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, #e63946, #f4a261);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    display: inline-flex;
+    align-items: center;
+}
+
+#submit:hover {
+    background: linear-gradient(135deg, #f4a261, #e63946);
+    box-shadow: 0px 12px 25px rgba(0, 0, 0, 0.2);
+    transform: translateY(-3px);
+}
+
+/* Button Icon */
+#submit::before {
+    content: '📝'; /* You can replace this with an image or icon */
+    margin-right: 8px;
+    font-size: 1.3rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    #schoolData {
+        height: 150px;
+    }
+
+    #submit {
+        padding: 10px 25px;
+        font-size: 1rem;
+    }
+}
+
+/* Animations */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

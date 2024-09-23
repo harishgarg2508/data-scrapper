@@ -1,0 +1,2206 @@
+2	03140100501	
+GPS BAHO SIVIAN
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : BAHO SIVIAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+3	03140100502	
+GMS BAHO SIVIAN
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : BAHO SIVIAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+4	03140100601	
+GPS BAHO YATRI
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : BAHO YATRI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+5	03140100602	
+GMS BAHO YATRI
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : BAHO YATRI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+6	03140100701	
+GSSS BALLUANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BALLUANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+7	03140100702	
+GPS BALLUANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BALLUANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+9	03140100704	
+ROSE MARY CONV SCH BALLUANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BALLUANA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+10	03140100705	
+GPS BALLUANA UPGRADED EGS
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BALLUANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+11	03140100706	
+GURU GOBIND SINGH PB SCH BALLUANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BALLUANA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+12	03140100707	
+PKS INTERNATIONAL SCHOOL BALLUANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BALLUANA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+13	03140100901	
+GMS KOTHE AMARPURA BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-1	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+14	03140100902	
+GPS KOTHE AMARPURA BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-1	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+15	03140100903	
+GPS NFL COLONY BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-1	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+16	03140100904	
+SAINT PAUL'S HIGH SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-1	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+18	03140100909	
+SUNDER DASS BAREJA MODEL SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-1	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+19	03140100911	
+SARVHITKAR VIDYA MANDIR OPP. NFL COLONY BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-1	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+20	03140101001	
+GURU NANAK SR SEC PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-9	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+21	03140101002	
+GURU AMARDAS PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-9	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+22	03140101201	
+GPS DHOBIANA BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-12	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+23	03140101204	
+SPT PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-9	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+27	03140101210	
+SILVER OAK'S SCHOOL SUSHANT CITY II BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-9	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+28	03140101211	
+MAHAVIR PLAYWAY SCHOOL DHOBIANA ROAD BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-9	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+29	03140101301	
+GPS HOUSING BOARD BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-14	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+30	03140101302	
+Shaheed Udham Singh GPS UDHAM SINGH NAGAR Bathinda
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-18	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+32	03140101305	
+ST JOSEPH CON PBI SCH BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-14	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+34	03140101307	
+BHOJ RAJ LAJWANTI PB SCH BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-14	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+35	03140101308	
+POLICE PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-14	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+36	03140101312	
+ST JOSEPH CONVENT SEN SEC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-14	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+37	03140101313	
+DASHAM PITA GURU GOBIND SINGH PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-14	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+38	03140101401	
+GPS CIVIL STATION BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-11	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+39	03140101402	
+BIMAL RAI MEMO . GURU NANAK MIDDLE SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-11	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+41	03140101404	
+GURU KASHI PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-11	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+42	03140101405	
+PRAYAAS INTERNATIONAL SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-11	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+45	03140101503	
+HEMKUNT PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-8	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+46	03140101601	
+GPS CHANDSAR BASTI BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-31	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+47	03140101602	
+GHS CHANDSAR BASTI BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-31	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+48	03140101603	
+GHS GHANIYA NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+49	03140101604	
+GPS GHANIYA NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+50	03140101605	
+MSD SR SEC PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+52	03140101608	
+SRI GURU HARKRISHAN PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+53	03140101609	
+LORD RAMA PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+56	03140101612	
+RB DAV SEN SEC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+57	03140101613	
+M.K.K.M PUBLIC SCHOOL
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+58	03140102001	
+GPS THERMAL COLONY BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-2	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+60	03140102003	
+MHR HAPPY HIGH SCHOOL NAI BASTI BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+61	03140102101	
+MHR SR SEC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 4-Government Aided
+National Mgmt. : 4- Government Aided
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+63	03140102103	
+M.H.R Vidya Mandir High School Ganesh Nagar, BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+64	03140102104	
+MHR PUBLIC SCHOOL MALVIA NAGAR BATHINDA CBSE BRANCH
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+65	03140102201	
+GPS MALL ROAD BATHINDA Girls
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+66	03140102202	
+SHAHEED MAJOR RAVI INDER SINGH SANDHU GSSS MALL ROAD GIRLS BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 2-Girls
+Pin Code : 151001	0-Operational	  
+67	03140102203	
+MBR PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+69	03140102402	
+MSD PB SCHOOL SANTPURA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-49	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+70	03140102501	
+GPS DES RAJ BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-26	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+72	03140102601	
+GPS GURUNANAKPURA BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-23	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+73	03140102602	
+GHS GURUNANAKPURA BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-23	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+74	03140102603	
+DEEPAK PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-23	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+75	03140102605	
+KIRAN PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-23	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+76	03140102609	
+GURU HARGOBIND SINGH SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-24	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+79	03140102707	
+BABA DEEP SINGH PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-24	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+80	03140102801	
+INDIAN NATIONAL PUBLIC SR SEC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-26	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+81	03140102804	
+SAMTA PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-20	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+82	03140102901	
+GPS HARBANS NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-15	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+83	03140102902	
+GPS HAZI RATTAN BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-24	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+84	03140102903	
+GPS GOBIND NAGAR BATHINDA Branch
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-15	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+85	03140102904	
+SUMMER HILL CONVENT SR SEC BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-15	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+88	03140103005	
+RESIDENTIAL SCHOOL FOR MERITORIUS STUDENTS, BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-20	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 11-Higher Secondary only/Jr. College
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+90	03140103104	
+G GOBIND MISSION PB SCH BTD
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-3	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+91	03140103105	
+LITTLE FLOWER PB SCH BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-3	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+92	03140103106	
+A.C.C.PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-3	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+93	03140103107	
+GPS JIVI NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-3	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+94	03140103201	
+GPS LAL SINGH BASTI BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+95	03140103202	
+SILVER OAKS SCHOOL,DABWALI RD BTI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+96	03140103401	
+GPS SANGUANA BASTI BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-21	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+97	03140103402	
+SSD MANGAT RAM MITTAL SR SEC PB SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-21	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+99	03140103501	
+KIRAN PUBLIC SCHOOL AMARPURA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-20	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+100	03140103601	
+GPS SANJAY NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-22	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+101	03140103602	
+GSSS SANJAY NAGAR BATHINDA (RMSA)
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-22	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+102	03140103604	
+PUNJAB PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-22	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+104	03140103701	
+DES RAJ MEM GSSS BATHINDA Boys
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-38	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 1-Boys
+Pin Code : 151001	0-Operational	  
+105	03140103705	
+ARYA MODEL PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+106	03140103706	
+ARYA GIRLS SEN SEC SCHOOL BATHINDA AIDED UPTO HIGH
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 4-Government Aided
+National Mgmt. : 4- Government Aided
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+107	03140103707	
+SSD MOTI RAM KMV SCH BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 4-Government Aided
+National Mgmt. : 4- Government Aided
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+108	03140103708	
+SSD SR SEC SCHOOL BOYS BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-30	State Mgmt. : 4-Government Aided
+National Mgmt. : 4- Government Aided
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+109	03140103709	
+S.S.D PUBLIC SR. SEC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+111	03140103711	
+PRINCE PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-29	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+112	03140103712	
+KHALSA SR SEC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-22	State Mgmt. : 4-Government Aided
+National Mgmt. : 4- Government Aided
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+113	03140103716	
+SSD GIRLS COLLEGIATE SEN SEC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-34	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 11-Higher Secondary only/Jr. College
+School Type : 2-Girls
+Pin Code : 151001	0-Operational	  
+116	03140103719	
+JAME ASHRAF BABA HAZI RATAN ISLAMIA SCHOOL, BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-38	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+117	03140103802	
+ST FARID PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-4	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+118	03140103803	
+MATA SAHIB KAUR MEM. PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-4	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+119	03140103804	
+GPS Teachers Colony
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-4	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+122	03140103906	
+SILVER OAKS SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-5	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+123	03140103907	
+MOTHER'S PRIDE SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-5	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+124	03140104001	
+GURU NANAK DEV PUBLIC SR. SEC. SCHOOL KAMLA NEHRU NAGAR ,BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-6	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+125	03140104102	
+RITA PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-7	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+126	03140104104	
+ARMY PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-7	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+128	03140104106	
+KHUSHI PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-7	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+130	03140104202	
+ST. XAVIER 'S SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-11	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+131	03140104301	
+DASHMESH SEN SEC PUBLIC SCHOOL CIVIL STATION BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-11	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+132	03140104302	
+BHAI VEER SINGH PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-11	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+133	03140104401	
+GPS BEER BEHMAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEER BEHMAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+134	03140104402	
+GSSS BEER BEHMAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEER BEHMAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+136	03140104404	
+ROSE MARY CONVENT SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-1	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+137	03140104501	
+GPS BASTI TALAB NEHAR II III
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : TALABNEHAR	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+138	03140104502	
+GMS BEER TALAB
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEER TALAB	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+139	03140104601	
+GSSS BEHMAN DIWANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEHMAN DIWANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+140	03140104602	
+GPS BEHMAN DIWANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEHMAN DIWANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+141	03140104603	
+GPS BEHMAN KHURD
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEHMAN DIWANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+142	03140104604	
+QUEST INTERNATIONAL SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEHMAN DIWANA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+147	03140104611	
+THE SHAMROCK CONVENT SCHOOL BEHMAN DIWANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEHMAN DIWANA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+148	03140104701	
+GHS BHAGU
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BHAGU	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+149	03140104702	
+GPS BHAGU
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BHAGU	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+150	03140104801	
+GPS BHISIANA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : BHISIANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+151	03140104902	
+GPS BHOKHRA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : BHOKHRA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+152	03140105201	
+GSSS BULADEWALA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : BULADEWALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+153	03140105205	
+GPS BULADEWALA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : BULADEWALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+154	03140105206	
+JS PARAMOUNT CONVENT SPORTS SCHOOL BULADEWALA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : BULADEWALA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+155	03140105302	
+GPS BURJ MEHMA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : BURJ MEHMA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+156	03140105402	
+GPS CHUGHE KALAN
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : CHUGHE KALAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+158	03140105406	
+GSSS CHUGHE KALAN
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : CHUGHE KALAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+159	03140105501	
+GHS CHUGHE KHURD
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : CHUGHE KHURD	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+160	03140105502	
+GPS CHUGHE KHURD
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : CHUGHE KHURD	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+162	03140105601	
+GHS DAN SINGH WALA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : DAN SINGH WALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+163	03140105702	
+GPS BRANCH DEON
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : DEON	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+166	03140105709	
+BABA FARID SEN SEC SCHOOL DEON
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : DEON	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 11-Higher Secondary only/Jr. College
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+169	03140105901	
+GSSS GEHRI DEVI NAGAR
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : GEHRI DEVI NAGAR	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+170	03140105902	
+GPS GEHRI DEVI NAGAR
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : GEHRI DEVI NAGAR	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+171	03140105903	
+Sri Dasmesh convent school gehri devi nagar
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : GEHRI DEVI NAGAR	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+172	03140106002	
+GPS GILL PATTI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : GILL PATTI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+174	03140107102	
+GURU NANAK PUBLIC SCHOOL GONIANA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : GONIANA W-5	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+175	03140107601	
+GSSS GULABGARH
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : GULABGARH	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+176	03140107602	
+GPS GULABGARH
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : GULABGARH	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+179	03140107901	
+GSSS JASSI PAW WALI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : JASSI PAU WALI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+180	03140107902	
+GPS JASSI PAU WALI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : JASSI PAU WALI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+182	03140108101	
+GSSS JHUMBA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : JHUMBA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+183	03140108102	
+GPS JHUMBA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : JHUMBA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+185	03140108105	
+DASHMESH PITA PB SCH JHUMBA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : JHUMBA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+186	03140108201	
+GSSS JODHPUR ROMANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : JODHPUR ROMANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+187	03140108202	
+GPS JODHPUR ROMANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : JODHPUR ROMANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+189	03140108301	
+GMS KARAMGARH SATRAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KARAMGARH SATRAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+190	03140108302	
+GPS KARAMGARH SATRAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KARAMGARH SATRAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+193	03140108401	
+GHS KATAR SINGH WALA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KATAR SINGH WALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+194	03140108402	
+GPS KATAR SINGH WALA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KATAR SINGH WALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+195	03140108601	
+GHS KHIALI WALA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : KHIALI WALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+197	03140108702	
+GPS KILLI NIHAL SINGH WALA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : KILLI NIHAL SINGH WALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+200	03140109002	
+GPS KOTHE CHET SINGH
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : KOTHE CHET SINGH	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+201	03140109101	
+GPS KOTHE INDER SINGH
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : KOTHE INDER SINGH	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+202	03140109901	
+School Of Eminence Kot Shamir District Bathinda 
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KOT SHAMIR W-12	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+203	03140109902	
+GPS KOT SHAMIR
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KOT SHAMIR W-12	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+204	03140109903	
+GPS WANDER PATTI KOT SHAMIR
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KOT SHAMIR W-5	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+206	03140109912	
+MOUNT LITERA ZEE SCHOOL
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KOT SHAMIR	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+207	03140110501	
+GPS MIAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : MIAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+208	03140110502	
+GMS MIAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : MIAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+209	03140110601	
+GSSS MULTANIA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : MULTANIA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+210	03140110602	
+GPS MULTANIA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : MULTANIA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+211	03140110801	
+GSSS NARUANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : NARUANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+212	03140110802	
+GPS NARUANA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : NARUANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+214	03140110808	
+RADCLIFFE SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : NARUANA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+215	03140110901	
+GPS NATHIANA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : NATHIANA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+216	03140111001	
+GMS PHOOS MANDI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : PHOOS MANDI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+217	03140111002	
+GPS PHOOS MANDI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : PHOOS MANDI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+218	03140111101	
+GHS SARDARGARH
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : SARDARGARH	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+219	03140111102	
+GPS SARDARGARH
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : SARDARGARH	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+220	03140111202	
+GPS SIVIAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : SIVIAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+221	03140111203	
+GPS JEEVAN SINGH BASTI SIVIAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : SIVIAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+222	03140111204	
+GPS KHETA BASTI SIVIAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-50	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+224	03140111301	
+GPS BASTI IV V
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BEER TALAB	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+225	03140111302	
+GPS BASTI NAIK
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : TALABNEHAR	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+226	03140111303	
+GSSS BEER TALAB BASTI IV V
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : TALABNEHAR	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+228	03140111305	
+SHAHEED BHAGAT SINGH PUBLIC SCHOOL TALABNEHAR
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : TALABNEHAR	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+229	03140111401	
+GPS TEONA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : TEONA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+230	03140111402	
+GHS TEONA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : TEONA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+232	03140111502	
+GPS VIRK KALAN
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : VIRK KALAN	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+233	03140111602	
+GPS VIRK KHURD
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : VIRK KHURD	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+234	03140111701	
+GPS KOTHE MULTANIA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : KOTHE MULTANIA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+235	03140112001	
+SHRI KANYA KRISHANA PB SCH BTI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-38	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+236	03140112002	
+BAL BHAWAN MIDDLE SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-38	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+237	03140112102	
+S.G.N.D.P. SEN. SEC. SCHOOL LAL SINGH BASTI BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+238	03140112103	
+KHALSA NATIONAL PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+240	03140112201	
+GPS MOHALLA JHUTI KA BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-42	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+241	03140112202	
+GMS MOHALLA JHUTI KA BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-42	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+242	03140112206	
+ADESH PUBLIC SCHOOL
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-42	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+243	03140112401	
+GPS PARTAP NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+246	03140112408	
+SH E AZAM PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-18	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+247	03140112409	
+MSD ARUN PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-18	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+248	03140112410	
+ST PALS PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-50	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+249	03140112411	
+MHR MODEL SCHOOL PARTAP NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-41	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+250	03140112412	
+SHIVA PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+251	03140112413	
+BABY CONVENT SCHOOL SURKHPIR ROAD BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+252	03140112414	
+S.K.P. SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+253	03140112415	
+DIFFERENT CONVENT SCHOOL PARTAP NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-39	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+254	03140112501	
+Shaheed Sipahi Sandeep Singh School School Of Eminence Parsaram Nagar Bathinda 
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-37	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+255	03140112502	
+GPS PARASRAM NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-37	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+257	03140112508	
+ST HEART PB SCH BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-37	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+259	03140112601	
+RAVINDRA MODEL SCHOOL PARASRAM NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-37	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+262	03140112607	
+DAV PUBLIC SCHOOL, PARAS RAM NAGAR ,BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-37	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+264	03140112704	
+INDIAN PUBLIC SR SEC SCH BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-45	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+267	03140112707	
+MOTHER INDIA PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-37	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+268	03140112708	
+Lala jagan nath jain goodwill src high school paras ram nagar bathinda
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-37	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 6-Pr. Up Pr. and Secondary Only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+270	03140112710	
+VISHVAS PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-41	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+278	03140113001	
+GPS JANTA NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-47	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+279	03140113002	
+GHS JANTA NAGAR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-47	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+282	03140113006	
+SHRI NARAIN BAL VIDYA MANDIR BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-47	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+283	03140113101	
+BHOJ RAJ JAIN PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-35	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 3-Pr. with Up.Pr. Sec. and H.Sec.
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+286	03140113404	
+DASHMESH PUBLIC SCHOOL BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-50	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+289	03140113407	
+NEW LIKE MODEL SCHOOL KHETA SINGH BASTI BATHINDA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-50	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+290	03140113408	
+P.V.S. PUB SCH KHTA SIN NAG
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-50	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+293	03140113413	
+TAGORE PB SCH KHETA SINGH BASTI
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-50	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+295	03140400901	
+GPS BIBIWALA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BIBIWALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+296	03140400902	
+GHS BIBIWALA
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BIBIWALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 7-Upper Pr. and Secondary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+298	03140401602	
+GSSS GOBINDPURA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : GOBINDPURA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+299	03140401608	
+SHAHEED BHAGAT SINGH PUBLIC SCHOOL GOBINDPURA
+State : PUNJAB
+District : BATHINDA
+Block : GONIANA MANDI
+Village: : GOBINDPURA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+300	03140401801	
+GPS JOGANAND
+State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : JOGANAND	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+301	03140403403	
+GPS TUNGWALI Branch-1
+State : PUNJAB
+District : BATHINDA
+Block : RAMPURA PHUL
+Village: : TUNGWALI	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+302	03140701402	
+GSSS GEHRI BUTTER
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : GEHRI BUTTER	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 5-Up. Pr. Secondary and Higher Sec
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+303	03140702803	
+SHIVALIK DAY BOARDING PB SCH MEHTA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : MEHTA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 2-Primary with Upper Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+304	03140704301	
+GPS GURUSAR SAINEWALA
+State : PUNJAB
+District : BATHINDA
+Block : SANGAT
+Village: : SEHNEWALA	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+306	03144100138	
+GMS DHOBIANA BATHINDA
+GMS DHOBIANA BATHINDA	State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-12	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+307	03144100140	
+GMS HAZI RATTAN BATHINDA
+GMS HAZI RATTAN BATHINDA	State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-24	State Mgmt. : 1-Department of Education
+National Mgmt. : 1- Department of Education
+School Category : 4-Upper Primary only
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	  
+308	03144100304	THE NEW ERA PUBLIC SCHOOL KATAR SINGH WALA	State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : KATAR SINGH WALA	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational	 
+309	03144100372	ST. XAVIER'S WORLD SCHOOL JUNIOR ,BATHINDA	State : PUNJAB
+District : BATHINDA
+Block : BATHINDA
+Village: : BATHINDA W-3	State Mgmt. : 5-Private Unaided (Recognized)
+National Mgmt. : 5- Private Unaided (Recognized)
+School Category : 1-Primary
+School Type : 3-Co-educational
+Pin Code : 151001	0-Operational
